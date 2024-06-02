@@ -21,11 +21,11 @@
 <div align="center">
   <img src="image/bsulogo.png" alt="University Logo"width="150" height="150">
   <br>
-  <span style="font-size: larger;">Batangas State University - The National Engineering University</span>
+  <span style="font-size: 20;">Batangas State University - The National Engineering University</span>
   <br>
-  <span style="font-size: smaller;">Bachelor of Science in Information Technology</span>
+  <span style="font-size: 10;">Bachelor of Science in Information Technology</span>
   <br>
-  <span style="font-size: smaller;">Major in Business Analytics</span>
+  <span style="font-size: 10;">Major in Business Analytics</span>
 </div>
 
 ## <div align="center">Work Experience</div>
