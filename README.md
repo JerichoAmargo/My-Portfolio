@@ -9,7 +9,8 @@
 <div align="center">
   <strong>IT Specialist | Web Developer | Graphic Designer</strong>
   <br>
-  <a href="cv_amargo.pdf" download>Download CV</a>
+  <a href="CV_amargo.pdf" download>
+    <i class="fa fa-download"></i> Download CV
 </div>
 
 ## <div align="center">About</div>
