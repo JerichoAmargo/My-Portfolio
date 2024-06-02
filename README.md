@@ -1,7 +1,7 @@
 ## <div align="center">My Portfolio</div>
 
 <div align="center">
-  <img src="picture.png" alt="Profile Picture">
+  <img src="image/profile.png" alt="Profile Picture">
 </div>
 
 # <div align="center">Jericho L. Amargo</div>
