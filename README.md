@@ -1,7 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <!-- Link Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+
 ## <div align="center">My Portfolio</div>
 
 <div align="center">
-  <img src="image/profile.png" alt="Profile Picture" width="300" height="300">
+  <img src="image/profile.png" alt="Profile Picture" width="200" height="200">
 </div>
 
 # <div align="center">Jericho L. Amargo</div>
@@ -9,8 +20,10 @@
 <div align="center">
   <strong>IT Specialist | Web Developer | Graphic Designer</strong>
   <br>
-  <a href="CV_amargo.pdf" download>
-    <i class="fa fa-download"></i> Download CV
+  <!-- Download CV Icon -->
+  <a href="path/to/your/cv.pdf" download>
+    <i class="fas fa-download"></i> Download CV
+  </a>
 </div>
 
 ## <div align="center">About</div>
@@ -37,25 +50,32 @@
 <div align="center">
   <img src="pic2.png" alt="Company Logo">
   <br>
-  **SpeedTech IT Services**
+  <strong>SpeedTech IT Services</strong>
   <br>
-  **IT Support | Graphic Designer**
+  <strong>IT Support | Graphic Designer</strong>
   <br>
-  * fdfgsgdfgsdfgs
-  * fdfgsgdfgsdfgs
-  * fdfgsgdfgsdfgs
-  * fdfgsgdfgsdfgs
+  <ul style="list-style-position: inside; text-align: left;">
+    <li>fdfgsgdfgsdfgs</li>
+    <li>fdfgsgdfgsdfgs</li>
+    <li>fdfgsgdfgsdfgs</li>
+    <li>fdfgsgdfgsdfgs</li>
+  </ul>
 </div>
 
 <div align="center">
   <img src="pic3.png" alt="Company Logo">
   <br>
-  **Business Process Outsourcing Internation, Inc.**
+  <strong>Business Process Outsourcing Internation, Inc.</strong>
   <br>
-  **RPA Developer Intern**
+  <strong>RPA Developer Intern</strong>
   <br>
-  * fdfgsgdfgsdfgs
-  * fdfgsgdfgsdfgs
-  * fdfgsgdfgsdfgs
-  * fdfgsgdfgsdfgs
+  <ul style="list-style-position: inside; text-align: left;">
+    <li>fdfgsgdfgsdfgs</li>
+    <li>fdfgsgdfgsdfgs</li>
+    <li>fdfgsgdfgsdfgs</li>
+    <li>fdfgsgdfgsdfgs</li>
+  </ul>
 </div>
+
+</body>
+</html>
