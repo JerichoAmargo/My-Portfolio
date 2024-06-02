@@ -28,6 +28,7 @@
     <span style="font-size: 15px;">Major in Business Analytics</span>
   </div>
 </div>
+
 ## <div align="center">Work Experience</div>
 
 <div align="center">
