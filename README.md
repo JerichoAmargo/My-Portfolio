@@ -1,3 +1,4 @@
 # My Personal Portfolio
 
-## I'm Jericho L. Amargo
+## **Jericho L. Amargo**
+## IT Specialist | Web Developer | Graphic Designer
