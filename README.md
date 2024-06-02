@@ -48,8 +48,8 @@
   </ul>
 </div>
 
-<div align="center">
-  <img src="pic3.png" alt="Company Logo">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="image/bpologo.png" alt="University Logo" width="150" height="150" style="margin-right: 20px;">
   <br>
   <strong>Business Process Outsourcing Internation, Inc.</strong>
   <br>
