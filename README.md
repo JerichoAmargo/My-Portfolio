@@ -19,7 +19,7 @@
 ## <div align="center">Education</div>
 
 <div align="center">
-  <img src="picture1.png" alt="University Logo">
+  <img src="image/bsulogo.png" alt="University Logo">
   <br>
   <span style="font-size: larger;">Batangas State University - The National Engineering University</span>
   <br>
