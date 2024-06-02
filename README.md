@@ -5,7 +5,7 @@
 # <div align="center">Jericho L. Amargo</div>
 
 <div align="center">
-  ** IT Specialist | Web Developer | Graphic Designer **
+  <strong>IT Specialist | Web Developer | Graphic Designer</strong>
 </div>
 
 ## <div align="center">About</div>
