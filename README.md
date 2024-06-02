@@ -20,7 +20,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="image/bsulogo.png" alt="University Logo" width="150" height="150" style="margin-right: 20px;">
-  <div>
+  <div style="text-align: left;">
     <span style="font-size: 20px;"><strong>Batangas State University - The National Engineering University</strong></span>
     <br>
     <span style="font-size: 15px;">Bachelor of Science in Information Technology</span>
