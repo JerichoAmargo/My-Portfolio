@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <!-- Link Font Awesome CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-<body>
-
 ## <div align="center">My Portfolio</div>
 
 <div align="center">
@@ -20,10 +9,7 @@
 <div align="center">
   <strong>IT Specialist | Web Developer | Graphic Designer</strong>
   <br>
-  <!-- Download CV Icon -->
-  <a href="path/to/your/cv.pdf" download>
-    <i class="fas fa-download"></i> Download CV
-  </a>
+  <a href="path/to/your/cv.pdf" download>Download CV</a>
 </div>
 
 ## <div align="center">About</div>
@@ -76,6 +62,3 @@
     <li>fdfgsgdfgsdfgs</li>
   </ul>
 </div>
-
-</body>
-</html>
