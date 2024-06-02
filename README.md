@@ -8,6 +8,8 @@
 
 <div align="center">
   <strong>IT Specialist | Web Developer | Graphic Designer</strong>
+  <br>
+  <a href="cv_amargo.pdf" download>Download CV</a>
 </div>
 
 ## <div align="center">About</div>
