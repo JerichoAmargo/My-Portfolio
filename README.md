@@ -1,3 +1,5 @@
+## <div align="center">My Portfolio</div>
+
 <div align="center">
   <img src="picture.png" alt="Profile Picture">
 </div>
