@@ -15,7 +15,7 @@
 ## <div align="center">About</div>
 
 <div align="center">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  I am a motivated and responsible professional with a mature approach to every task and assignment. As a recent IT graduate, I have honed my skills in collaboration, problem-solving, and time management. My consistent ability to meet deadlines and exceed expectations reflects my dedication and proficiency in the IT field. I am confident in my capability to excel in diverse IT roles, bringing a strong work ethic and a commitment to continuous learning and improvement.
 </div>
 
 ## <div align="center">Education</div>
