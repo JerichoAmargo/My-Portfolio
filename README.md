@@ -35,7 +35,7 @@
 
 <table>
     <tr>
-        <td><img src="spdt.png" alt="SpeedTech IT Services" width="100"></td>
+        <td><img src="image/spdtlogo.png" alt="SpeedTech IT Services" width="100"></td>
         <td>
             <strong style="font-size: 20px;">SpeedTech IT Services</strong><br>
             <strong style="font-size: 15px;">IT Support</strong><br>
@@ -48,7 +48,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src="bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
+        <td><img src="image/bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
         <td>
             <strong style="font-size: 20px;">Business Process Outsourcing International, Inc.</strong><br>
             <strong style="font-size: 15px;">RPA Developer Intern</strong><br>
