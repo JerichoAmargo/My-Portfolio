@@ -37,9 +37,9 @@
     <tr>
         <td><img src="spdt.png" alt="SpeedTech IT Services" width="100"></td>
         <td>
-            <div style="font-weight: bold; font-size: 20px;">SpeedTech IT Services</div>
-            <div style="font-weight: bold; font-size: 15px;">IT Support</div>
-            <div style="font-size: 15px;">August 2020 - 2022</div>
+            <strong style="font-size: 20px;">SpeedTech IT Services</strong><br>
+            <strong style="font-size: 15px;">IT Support</strong><br>
+            <span style="font-size: 15px;">August 2020 - 2022</span>
             <ul>
                 <li>Addressed customer inquiries, providing technical support and resolving issues efficiently.</li>
                 <li>Conducted computer repair, upgrades, and maintenance for desktops and laptops.</li>
@@ -48,11 +48,11 @@
         </td>
     </tr>
     <tr>
-        <td><img src="image/bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
+        <td><img src="bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
         <td>
-            <div style="font-weight: bold; font-size: 20px;">Business Process Outsourcing International, Inc.</div>
-            <div style="font-weight: bold; font-size: 15px;">RPA Developer Intern</div>
-            <div style="font-size: 15px;">January - April 2024</div>
+            <strong style="font-size: 20px;">Business Process Outsourcing International, Inc.</strong><br>
+            <strong style="font-size: 15px;">RPA Developer Intern</strong><br>
+            <span style="font-size: 15px;">January - April 2024</span>
             <ul>
                 <li>Developed automation workflows using UiPath, C#, .NET for Outlook Mail processing.</li>
                 <li>Created a Sales Invoice Detector project in Python for automated sales data extraction.</li>
