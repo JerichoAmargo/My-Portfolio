@@ -33,7 +33,7 @@
 
 ## <div align="center">Work Experience</div>
 
-<table>
+<table border="0">
     <tr>
         <td><img src="image/spdtlogo.png" alt="SpeedTech IT Services" width="100"></td>
         <td>
