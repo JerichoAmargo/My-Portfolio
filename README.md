@@ -28,6 +28,8 @@
     <span style="font-size: 15px;">Bachelor of Science in Information Technology</span>
     <br>
     <span style="font-size: 15px;">Major in Business Analytics</span>
+    <br>
+    <span style="font-size: 15px;">with Latin Honor</span>
   </div>
 </div>
 
