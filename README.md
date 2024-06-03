@@ -29,7 +29,7 @@
     <br>
     <span style="font-size: 15px;">Major in Business Analytics</span>
     <br>
-    <span style="font-size: 15px;"><i>with Latin Honor</i></span>
+    <span style="font-size: 15px;"><i>Cum Laude</i></span>
   </div>
 </div>
 
