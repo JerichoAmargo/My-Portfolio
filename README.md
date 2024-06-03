@@ -48,7 +48,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src="bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
+        <td><img src="image/bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
         <td>
             <div style="font-weight: bold; font-size: 20px;">Business Process Outsourcing International, Inc.</div>
             <div style="font-weight: bold; font-size: 15px;">RPA Developer Intern</div>
