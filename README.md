@@ -33,32 +33,34 @@
 
 ## <div align="center">Work Experience</div>
 
-<div align="center">
-  <img src="pic2.png" alt="Company Logo">
-  <br>
-  <strong>SpeedTech IT Services</strong>
-  <br>
-  <strong>IT Support | Graphic Designer</strong>
-  <br>
-  <ul style="list-style-position: inside; text-align: left;">
-    <li>fdfgsgdfgsdfgs</li>
-    <li>fdfgsgdfgsdfgs</li>
-    <li>fdfgsgdfgsdfgs</li>
-    <li>fdfgsgdfgsdfgs</li>
-  </ul>
-</div>
-
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="image/bpologo.png" alt="University Logo" width="150" height="150" style="margin-right: 20px;">
-  <br>
-  <strong>Business Process Outsourcing Internation, Inc.</strong>
-  <br>
-  <strong>RPA Developer Intern</strong>
-  <br>
-  <ul style="list-style-position: inside; text-align: left;">
-    <li>fdfgsgdfgsdfgs</li>
-    <li>fdfgsgdfgsdfgs</li>
-    <li>fdfgsgdfgsdfgs</li>
-    <li>fdfgsgdfgsdfgs</li>
-  </ul>
-</div>
+<table>
+    <tr>
+        <td><img src="spdt.png" alt="SpeedTech IT Services" width="100"></td>
+        <td>
+            <div style="font-weight: bold; font-size: 20px;">SpeedTech IT Services</div>
+            <div style="font-weight: bold; font-size: 15px;">IT Support</div>
+            <div style="font-size: 15px;">August 2020 - 2022</div>
+            <ul>
+                <li>Addressed customer inquiries, providing technical support and resolving issues efficiently.</li>
+                <li>Conducted computer repair, upgrades, and maintenance for desktops and laptops.</li>
+                <li>Designed logos, infographics, presentations, and posters to meet client specifications.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="bpologo.png" alt="Business Process Outsourcing International, Inc." width="100"></td>
+        <td>
+            <div style="font-weight: bold; font-size: 20px;">Business Process Outsourcing International, Inc.</div>
+            <div style="font-weight: bold; font-size: 15px;">RPA Developer Intern</div>
+            <div style="font-size: 15px;">January - April 2024</div>
+            <ul>
+                <li>Developed automation workflows using UiPath, C#, .NET for Outlook Mail processing.</li>
+                <li>Created a Sales Invoice Detector project in Python for automated sales data extraction.</li>
+                <li>Contributed to the development of a Client Hub Web Application using C# for improved client interaction.</li>
+                <li>Utilized pgAdmin as a graphical user interface tool to interact with PostgreSQL databases, enhancing database administration tasks.</li>
+                <li>Collaborated on cross-functional teams to gather requirements and implement tailored RPA solutions.</li>
+                <li>Conducted testing, debugging, and documentation of RPA processes for reliability and scalability.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
