@@ -86,43 +86,43 @@
       <tr>
           <td><img src="image/inl.png" alt="UiPath: Robotic Process Automations (RPA)" width="100"></td>
           <td>
-              <a href="https://www.uipath.com/rpa/robotic-process-automation" style="font-size: 15px;"><strong>UiPath: Robotic Process Automations (RPA)</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/f0f700c4efd0d54a70631c71794513a70886c74d55925607e0310d6984acd02b" style="font-size: 15px;"><strong>UiPath: Robotic Process Automations (RPA)</strong></a>
           </td>
           <td>
               <img src="image/inl.png" alt="Data Science Foundations: Data Mining" width="100">
           </td>
           <td>
-              <a href="https://www.datascience.com/learn/data-mining" style="font-size: 15px;"><strong>Data Science Foundations: Data Mining</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/340df482a6e48a768d18fd2de617821db93fcc7c42d7b79c9ad12dc8660e37b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Data Science Foundations: Data Mining</strong></a>
           </td>
       </tr>
       <tr>
           <td><img src="image/inl.png" alt="Introduction to Business Analytics" width="100"></td>
           <td>
-              <a href="https://www.coursera.org/learn/wharton-business-analytics" style="font-size: 15px;"><strong>Introduction to Business Analytics</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/c3687aea3ce7eeb01c04d98de4db8625808f5962301d458a719a0f61f6bee83d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Introduction to Business Analytics</strong></a>
           </td>
           <td><img src="image/inl.png" alt="Machine Learning with Python: Foundations" width="100"></td>
           <td>
-              <a href="https://www.coursera.org/learn/machine-learning-python" style="font-size: 15px;"><strong>Machine Learning with Python: Foundations</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/7ccfc2b45d05de5913a9cb71029c0603cebabd2ee9f26c9a47f7b540afce2dbb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Machine Learning with Python: Foundations</strong></a>
           </td>
       </tr>
       <tr>
           <td><img src="image/inl.png" alt="Python Functions for Data Science" width="100"></td>
           <td>
-              <a href="https://www.datacamp.com/courses/python-data-science-toolbox-part-1" style="font-size: 15px;"><strong>Python Functions for Data Science</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/1a69b1d6f3fe1fa3c5658880c70a2796c99b7d2c8fdfd29ac960c400f97649af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Python Functions for Data Science</strong></a>
           </td>
           <td><img src="image/inl.png" alt="Data Analytics for Students" width="100"></td>
           <td>
-              <a href="https://www.coursera.org/learn/data-analytics" style="font-size: 15px;"><strong>Data Analytics for Students</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/ab6f8410dbc741a58e61e6c34ab95479d474bc7322475698fe744b0fd9f6f277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Data Analytics for Students</strong></a>
           </td>
       </tr>
       <tr>
           <td><img src="image/inl.png" alt="Learning Data Analytics: 1 Foundations" width="100"></td>
           <td>
-              <a href="https://www.lynda.com/Data-Analytics-training-tutorials/634228-0.html" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/991fe686d404426f85faf8f9036dd4a75ee6eb636b4ca001123010107423df99?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
           </td>
-          <td></td>
+          <td><img src="image/inl.png" alt="Learning Data Analytics Part 2: Extending and Applying Core Knowledge" width="100"></td>
           <td>
-            <a href="https://ph.linkedin.com/in/jericho-amargo-b35660262" style="font-size: 15px;"><strong>View more...</strong></a>
+              <a href="https://www.linkedin.com/learning/certificates/d79e7950f7ba6f0ddfe8481a3ecc512c84924ef6e8bdb596a1bafff9d1f8874f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
           </td>
       </tr>
   </table>
