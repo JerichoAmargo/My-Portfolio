@@ -70,7 +70,6 @@
 ## <div align="center">Certifications</div>
 
 <div style="display: flex; justify-content: center;">
-
   <table border="0" style="margin-right: 20px;">
       <tr>
           <td><img src="image/aws1.png" alt="AWS Academy Cloud Foundations" width="100"></td>
@@ -130,5 +129,4 @@
           </td>
       </tr>
   </table>
-
 </div>
