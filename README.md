@@ -71,55 +71,55 @@
 
 <table border="0">
     <tr>
-        <td><img src="image/logo31.png" alt="AWS Academy Cloud Foundations" width="100"></td>
+        <td><img src="image/aws1.png" alt="AWS Academy Cloud Foundations" width="100"></td>
         <td>
             <strong style="font-size: 15px;">AWS Academy Cloud Foundations</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo32.png" alt="AWS Academy Cloud Architecting" width="100"></td>
+        <td><img src="image/aws2.png" alt="AWS Academy Cloud Architecting" width="100"></td>
         <td>
             <strong style="font-size: 15px;">AWS Academy Cloud Architecting</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo33.png" alt="UiPath: Robotic Process Automations (RPA)" width="100"></td>
+        <td><img src="image/inl.png" alt="UiPath: Robotic Process Automations (RPA)" width="100"></td>
         <td>
             <strong style="font-size: 15px;">UiPath: Robotic Process Automations (RPA)</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo34.png" alt="Data Science Foundations: Data Mining" width="100"></td>
+        <td><img src="image/inl.png" alt="Data Science Foundations: Data Mining" width="100"></td>
         <td>
             <strong style="font-size: 15px;">Data Science Foundations: Data Mining</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo35.png" alt="Introduction to Business Analytics" width="100"></td>
+        <td><img src="image/inl.png" alt="Introduction to Business Analytics" width="100"></td>
         <td>
             <strong style="font-size: 15px;">Introduction to Business Analytics</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo36.png" alt="Machine Learning with Python: Foundations" width="100"></td>
+        <td><img src="image/inl.png" alt="Machine Learning with Python: Foundations" width="100"></td>
         <td>
             <strong style="font-size: 15px;">Machine Learning with Python: Foundations</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo37.png" alt="Python Functions for Data Science" width="100"></td>
+        <td><img src="image/inl.png" alt="Python Functions for Data Science" width="100"></td>
         <td>
             <strong style="font-size: 15px;">Python Functions for Data Science</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo38.png" alt="Data Analytics for Students" width="100"></td>
+        <td><img src="image/inl.png" alt="Data Analytics for Students" width="100"></td>
         <td>
             <strong style="font-size: 15px;">Data Analytics for Students</strong>
         </td>
     </tr>
     <tr>
-        <td><img src="image/logo39.png" alt="Learning Data Analytics: 1 Foundations" width="100"></td>
+        <td><img src="image/inl.png" alt="Learning Data Analytics: 1 Foundations" width="100"></td>
         <td>
             <strong style="font-size: 15px;">Learning Data Analytics: 1 Foundations</strong>
         </td>
