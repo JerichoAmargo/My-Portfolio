@@ -7,7 +7,7 @@
 # <div align="center">Jericho L. Amargo</div>
 
 <div align="center">
-  <strong>IT Specialist | Web Developer | Graphic Designer</strong>
+  <strong>Developer | Data Analyst</strong>
   <br>
   <a href="CV_Amargo.pdf" download>Download CV</a>
 </div>
