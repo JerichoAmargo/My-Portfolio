@@ -121,7 +121,9 @@
               <a href="https://www.lynda.com/Data-Analytics-training-tutorials/634228-0.html" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
           </td>
           <td></td>
-          <td></td>
+          <td>
+            <a href="https://ph.linkedin.com/in/jericho-amargo-b35660262" style="font-size: 15px;"><strong>View more...</strong></a>
+          </td>
       </tr>
   </table>
 
