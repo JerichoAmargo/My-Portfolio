@@ -74,13 +74,13 @@
       <tr>
           <td><img src="image/aws1.png" alt="AWS Academy Cloud Foundations" width="100"></td>
           <td>
-              <a href="https://www.awsacademy.com/AWSAcademyCloudFoundations" style="font-size: 15px;"><strong>AWS Academy Cloud Foundations</strong></a>
+              <a href="https://www.credly.com/earner/earned/badge/aa34fc47-2b7c-4eaf-9e51-b9428cb47d21" style="font-size: 15px;"><strong>AWS Academy Cloud Foundations</strong></a>
           </td>
           <td>
               <img src="image/aws2.png" alt="AWS Academy Cloud Architecting" width="100">
           </td>
           <td>
-              <a href="https://www.awsacademy.com/AWSAcademyCloudArchitecting" style="font-size: 15px;"><strong>AWS Academy Cloud Architecting</strong></a>
+              <a href="https://www.credly.com/badges/aa34fc47-2b7c-4eaf-9e51-b9428cb47d21/public_url" style="font-size: 15px;"><strong>AWS Academy Cloud Architecting</strong></a>
           </td>
       </tr>
       <tr>
