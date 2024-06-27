@@ -103,7 +103,7 @@
       </tr>
   </table>
 
-  <table border="0">
+  <table border="0" style="margin-left: 20px;">
       <tr>
           <td><img src="image/inl.png" alt="Machine Learning with Python: Foundations" width="100"></td>
           <td>
