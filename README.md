@@ -69,7 +69,7 @@
 
 ## <div align="center">Certifications</div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-between;">
   <table border="0" style="margin-right: 20px;">
       <tr>
           <td><img src="image/aws1.png" alt="AWS Academy Cloud Foundations" width="100"></td>
@@ -103,7 +103,7 @@
       </tr>
   </table>
 
-  <table border="0" style="margin-left: 20px;">
+  <table border="0">
       <tr>
           <td><img src="image/inl.png" alt="Machine Learning with Python: Foundations" width="100"></td>
           <td>
