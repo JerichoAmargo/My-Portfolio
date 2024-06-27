@@ -69,16 +69,17 @@
 
 ## <div align="center">Certifications</div>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
+
   <table border="0" style="margin-right: 20px;">
       <tr>
           <td><img src="image/aws1.png" alt="AWS Academy Cloud Foundations" width="100"></td>
           <td>
               <a href="https://www.awsacademy.com/AWSAcademyCloudFoundations" style="font-size: 15px;"><strong>AWS Academy Cloud Foundations</strong></a>
           </td>
-      </tr>
-      <tr>
-          <td><img src="image/aws2.png" alt="AWS Academy Cloud Architecting" width="100"></td>
+          <td>
+              <img src="image/aws2.png" alt="AWS Academy Cloud Architecting" width="100">
+          </td>
           <td>
               <a href="https://www.awsacademy.com/AWSAcademyCloudArchitecting" style="font-size: 15px;"><strong>AWS Academy Cloud Architecting</strong></a>
           </td>
@@ -88,9 +89,9 @@
           <td>
               <a href="https://www.uipath.com/rpa/robotic-process-automation" style="font-size: 15px;"><strong>UiPath: Robotic Process Automations (RPA)</strong></a>
           </td>
-      </tr>
-      <tr>
-          <td><img src="image/inl.png" alt="Data Science Foundations: Data Mining" width="100"></td>
+          <td>
+              <img src="image/inl.png" alt="Data Science Foundations: Data Mining" width="100">
+          </td>
           <td>
               <a href="https://www.datascience.com/learn/data-mining" style="font-size: 15px;"><strong>Data Science Foundations: Data Mining</strong></a>
           </td>
@@ -100,11 +101,6 @@
           <td>
               <a href="https://www.coursera.org/learn/wharton-business-analytics" style="font-size: 15px;"><strong>Introduction to Business Analytics</strong></a>
           </td>
-      </tr>
-  </table>
-
-  <table border="0">
-      <tr>
           <td><img src="image/inl.png" alt="Machine Learning with Python: Foundations" width="100"></td>
           <td>
               <a href="https://www.coursera.org/learn/machine-learning-python" style="font-size: 15px;"><strong>Machine Learning with Python: Foundations</strong></a>
@@ -115,8 +111,6 @@
           <td>
               <a href="https://www.datacamp.com/courses/python-data-science-toolbox-part-1" style="font-size: 15px;"><strong>Python Functions for Data Science</strong></a>
           </td>
-      </tr>
-      <tr>
           <td><img src="image/inl.png" alt="Data Analytics for Students" width="100"></td>
           <td>
               <a href="https://www.coursera.org/learn/data-analytics" style="font-size: 15px;"><strong>Data Analytics for Students</strong></a>
@@ -127,6 +121,9 @@
           <td>
               <a href="https://www.lynda.com/Data-Analytics-training-tutorials/634228-0.html" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
           </td>
+          <td></td>
+          <td></td>
       </tr>
   </table>
+
 </div>
