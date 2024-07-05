@@ -120,9 +120,9 @@
           <td>
               <a href="https://www.linkedin.com/learning/certificates/991fe686d404426f85faf8f9036dd4a75ee6eb636b4ca001123010107423df99?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
           </td>
-          <td><img src="image/inl.png" alt="Learning Data Analytics Part 2: Extending and Applying Core Knowledge" width="100"></td>
+          <td><img src="image/microsoft.png" alt="Career Essentials in Data Analysis" width="100"></td>
           <td>
-              <a href="https://www.linkedin.com/learning/certificates/d79e7950f7ba6f0ddfe8481a3ecc512c84924ef6e8bdb596a1bafff9d1f8874f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D" style="font-size: 15px;"><strong>Learning Data Analytics: 1 Foundations</strong></a>
+              <a href="[https://www.linkedin.com/learning/certificates/d79e7950f7ba6f0ddfe8481a3ecc512c84924ef6e8bdb596a1bafff9d1f8874flipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6cCCIz38S76uwD2trUmBdg%3D%3D](https://www.linkedin.com/learning/certificates/461a308078cc9103c9996dd898e1cf1f4e5320ce7d5922cdd6270eaa34b22739)" style="font-size: 15px;"><strong>Career Essentials in Data Analysis</strong></a>
           </td>
       </tr>
   </table>
